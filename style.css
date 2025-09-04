@@ -16,6 +16,10 @@ html, body {
   margin: 0; padding: 0;
   background: var(--bg); color: var(--fg);
   font-family: -apple-system, system-ui, Segoe UI, Roboto, Inter, sans-serif;
+  overflow: hidden;
+  height: 100%;
+  touch-action: none;
+  overscroll-behavior: none;
 }
 
 .container {
