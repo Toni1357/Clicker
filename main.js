@@ -201,7 +201,7 @@ function closeModal(modal) {
 }
 
 /* Dev menu */
-const base64Code = "MzRTYXVjZTEy"; // "34Sauce12"
+const base64Code = "MzRTYXVjZTEy"; //
 let devUnlocked = false;
 
 function renderDev() {
